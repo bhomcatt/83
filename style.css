@@ -1,0 +1,15 @@
+.body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+#mi_canvas {
+    border-width: 10px;
+    background-color: beige;
+    border-style: ridge;
+}
